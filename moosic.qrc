@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/moosix">
+        <file>go.wav</file>
+    </qresource>
+</RCC>
